@@ -1,1 +1,1 @@
-# EasyJapanese
+# OctoLang
